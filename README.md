@@ -13,7 +13,7 @@ The dataest taken from kaggle was uploaded on developer's google drive and downl
 
 Interactive dashboard can be viewed with the help of above link.
 
-Tip:- Dashboard would take some time to load... Please do refresh it take more amount of time
+Tip:- Dashboard would take some time to load... Please do refresh if it take more amount of time or incase connection is timed out.
 
 # File Descriptions
 
